@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FredericoAlcaria
 - 👀 I’m interested in coding, playing guitar and PC games.
-- 🌱 I’m currently learning React JS, and Python
+- 🌱 I’m currently learning Data Science with Python
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me, faalcaria@gmail.com
 
